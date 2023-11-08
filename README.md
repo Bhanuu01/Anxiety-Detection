@@ -3,8 +3,6 @@
 
 ## Project Description
 
-In today's fast-paced world, the prevalence of stress, anxiety, and depression has become a concerning issue affecting people's mental health. Individuals often turn to social media platforms, such as Instagram for sharing their thoughts through posts and stories, or Reddit when seeking advice and support on various aspects of life.
-
 **Stress detection is a challenging task**, as there are so many words that can be used by people on their posts that can show whether a person is having psychological stress or not. In this repository, I am attempting to address the intricate task of stress detection in social media posts using the Python programming language.
 
 ## Key Features
