@@ -12,3 +12,12 @@
 - Aims to provide insights into individuals' psychological well-being.
 
 ## Google Colab notebook: [Click Here](https://colab.research.google.com/drive/1kBVrrzWt_JJaVkHlaE0xXyJ5lg8umNBk#scrollTo=qY9SP2QjOpvd)
+
+
+# Churn Prediction System using Multilayer Perceptrons (MLP)
+## Project Description and Features
+
+This project focuses on building a machine learning model using Multilayer Perceptrons (MLP) to predict customer churn for a business. Churn prediction is crucial for businesses as it helps them identify customers who are likely to leave, allowing for targeted retention strategies.
+
+## Google Colab notebook: [Click Here](https://colab.research.google.com/drive/1tAsQYDWal9Excb8hXvwTamxbYFHdB68w?usp=sharing)
+
